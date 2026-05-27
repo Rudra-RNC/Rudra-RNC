@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ ![LARP God Rudra](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc0Nno2NXppcjFuN2U1cDRxMjh4cGhiZnh3MXhpNTA2OGdlNGp3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lAlGqvFAA4ZzRKuqdb/giphy.gif)
 <!--
 **Rudra-RNC/Rudra-RNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
