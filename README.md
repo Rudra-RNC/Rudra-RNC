@@ -1,18 +1,16 @@
-> Building thoughtful software that solves real problems. Lover of clean code, good UX, and open source.
-
-<p>PS: That's what I'd want you to believe</p>
-
----
-
 ## About me
-I'm a soon-to-be software engineer who enjoys turning ideas into products. I focus on practical engineering, readable code, and shipping value quickly. I contribute to open source and mentor others when I can.
 
-Also, I like anime, manga, games, shows, movies i.e anything that stimulates my brain.
+I'm an aspiring software engineer who enjoys turning ideas into products. I focus on practical engineering, readable code, and shipping value quickly and efficiently. I contribute to open source and mentor others when I can while also enjoying solving Coding Problems and Polishing my Fundamentals.
+
+Lover of clean code, good UX, and open source.
+
+Also, I like anime, manga, games, shows, movies, books i.e anything that stimulates my brain. My Biggest dream would be that of to bring some of my favorite Sci-Fi Movies into Reality.
 
 ---
 
 ## 🔭 I’m currently working on
-- Myself
+- Building my arsenal and getting as many new weapons as I can in the process.
+- Building thoughtful software that solves real problems.
 
 ---
 
@@ -22,7 +20,7 @@ Also, I like anime, manga, games, shows, movies i.e anything that stimulates my 
 - Tools: Docker • Kubernetes • Git • CI/CD
 
 ---
-<!--
+
 ## ⭐ Featured projects
 - Project One — short one-line description that explains why it’s useful.  
   Repo: github.com/your-username/project-one
@@ -45,37 +43,37 @@ Also, I like anime, manga, games, shows, movies i.e anything that stimulates my 
 ## 🛠 How I work
 - Small, iterative releases with strong tests.
 - Prioritize developer feedback and observability.
-- Open to collaboration — PRs and discussions welcome.
+- Open to collaboration - PRs and discussions welcome.
 
 ---
 
 ## 📫 Get in touch
-- Email: hello@yourdomain.com
-- LinkedIn: linkedin.com/in/yourprofile
-- Twitter: @yourhandle
-- Website: yoursite.example
-
-(Share preferred contact channels and links to update this section.)
+- Email: dj0rudra@gmail.com
+- LinkedIn: linkedin.com/in/rudra-kumar-cs
+<!-- - Twitter: @yourhandle
+- Website: yoursite.example -->
 
 ---
 
 ## 📈 GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra-RNC&show_icons=true&theme=radical)
 
-(If you'd like, I can add dynamic cards for top languages, streaks, or contribution calendar.)
+<!-- (If you'd like, I can add dynamic cards for top languages, streaks, or contribution calendar.) -->
 
 ---
 
 ## ⚡ Fun facts
 - I enjoy learning new languages and frameworks.
-- Outside coding: [hobby or interest].
-- Favorite quote: “Code is like humor. When you have to explain it, it’s bad.”
+- Outside coding: .
+- Favorite quote: 
+    “Code is like humor. <br>
+      When you have to explain it, it’s bad.”
 
 ---
 
 Thanks for visiting — I’m always open to interesting problems, collaboration, and good conversations.
 
--->
+
 
  
 <!--
