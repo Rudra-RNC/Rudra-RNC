@@ -56,7 +56,7 @@ Also, I like anime, manga, games, shows, movies, books i.e anything that stimula
 ---
 
 ## 📈 GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra-RNC&show_icons=true&theme=radical)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=rudra-rnc)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- (If you'd like, I can add dynamic cards for top languages, streaks, or contribution calendar.) -->
 
