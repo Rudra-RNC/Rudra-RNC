@@ -48,8 +48,8 @@ Also, I like anime, manga, games, shows, movies, books i.e anything that stimula
 ---
 
 ## 📫 Get in touch
-- Email: dj0rudra@gmail.com
-- LinkedIn: linkedin.com/in/rudra-kumar-cs
+- Email: [E-Mail](mailto:dj0rudra@gmail.com)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/rudra-kumar-cs)
 <!-- - Twitter: @yourhandle
 - Website: yoursite.example -->
 
