@@ -22,12 +22,7 @@ Also, I like anime, manga, games, shows, movies, books i.e anything that stimula
 ---
 
 ## ⭐ Featured projects
-- Project One — short one-line description that explains why it’s useful.  
-  Repo: github.com/your-username/project-one
-- Project Two — the problem it solves and the tech used.  
-  Repo: github.com/your-username/project-two
-- Project Three — highlight impact or users.  
-  Repo: github.com/your-username/project-three
+
 
 (Provide project names, 1–2 sentence descriptions, and links to replace the placeholders.)
 
@@ -71,7 +66,7 @@ Also, I like anime, manga, games, shows, movies, books i.e anything that stimula
 
 ---
 
-Thanks for visiting — I’m always open to interesting problems, collaboration, and good conversations.
+Thanks for visiting - I’m always open to interesting problems, collaboration, and good conversations.
 
 
 
