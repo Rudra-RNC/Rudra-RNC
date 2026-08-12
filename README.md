@@ -4,6 +4,14 @@ Passionate software engineer focused on building reliable, maintainable systems 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudra-RNC/Rudra-RNC/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudra-RNC/Rudra-RNC/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rudra-RNC/Rudra-RNC/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+---
+
 ## Quick links
 - **Email:** dj0rudra@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/rudra-kumar-cs
