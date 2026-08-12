@@ -50,6 +50,10 @@ Passionate software engineer focused on building reliable, maintainable systems 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Phantom__Dracula-1f8acb?style=flat&logo=codeforces)](https://codeforces.com/profile/Phantom_Dracula)
 [![CodeChef](https://img.shields.io/badge/CodeChef-extra__web__87-0f9d58?style=flat&logo=codechef)](https://www.codechef.com/users/extra_web_87)
 [![HackerRank](https://img.shields.io/badge/HackerRank-mesracp-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/mesracp)
+<!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/outrageous_pony_81758)  -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-kumar-cs) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alicihanceliktht@gmail.com) 
+![Visitor Count](https://komarev.com/ghpvc/?username=rudra-rnc&color=red)
 
 ---
 
