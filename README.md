@@ -65,6 +65,9 @@ Passionate software engineer focused on building reliable, maintainable systems 
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/2_01_4_2_1___5_01_3_1_2?theme=wtf&font=Andika%20New%20Basic&colors=%23000000&ext=heatmap)
+
+---
 ## Professional summary
 Experienced in building web applications with an emphasis on clean architecture, readable code, and testability. I enjoy working across the stack, improving developer experience, and mentoring engineers to deliver high-quality software.
 
