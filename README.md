@@ -21,6 +21,9 @@ Passionate software engineer focused on building reliable, maintainable systems 
 
 ---
 
+[![Dashboard stats of @Rudra-RNC](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=184390233&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=184390233)
+
+---
 ## Top skills
 - Languages: JavaScript / TypeScript • Python • C++ • C# • SQL 
 - Frameworks: React • Node.js • Express
