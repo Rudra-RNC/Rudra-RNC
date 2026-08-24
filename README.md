@@ -1,6 +1,6 @@
 # Rudra Kumar - Builder & Software Engineer
 
-Gigachad software engineer focused on building reliable, maintainable systems and integrating AI to solve real-world problems. I ship practical solutions, contribute to open source, and mentor as well as learn from developers while keeping fundamentals sharp through competitive programming.
+GIGACHAD software engineer focused on building reliable, maintainable systems and integrating AI to solve real-world problems. I ship practical solutions, contribute to open source, and mentor as well as learn from developers while keeping fundamentals sharp through competitive programming.
 
 ---
 
