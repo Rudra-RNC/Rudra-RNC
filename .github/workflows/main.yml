@@ -1,4 +1,4 @@
-name: generate animation
+name: README ANIMATIONS
 
 on:
   # run automatically every 24 hours
@@ -38,14 +38,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-name: Update Activity Graph
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
   build:
     runs-on: ubuntu-latest
 
@@ -70,3 +62,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
+ 
