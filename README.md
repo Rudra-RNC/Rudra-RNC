@@ -1,47 +1,4 @@
 # Rudra Kumar - Builder & Software Engineer
-```
-%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%@@@%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%@@%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@%%@@%%%%%%%%%%%%%%%%
-%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%*==++**++==+==+**%%%%%%%@@@@@%%@%%%%%%%%%%%%%%%%%%
-@@@%%%@%@@%%%%%%%%%%%%%%%%%%#=====++++===+=--+===*%@@@@@@@@@@@@@%%%%%%%%%%%%%%%%
-@@@%%@@@@@@%%%%%%%%%%%%%%%*======-===+====----=====+#%%%@%%@@@@@@@@@%%%%%%%%%%%%
-@@%%%%%@@%@@@%%%%%%%%%%##*+===--------------++==-====+#%%%@@@%@@@@@@@%%%%%%%%%%%
-%%%%%%%%@@@%%%%%%%%%%###*==-===--=-:-::::-----=---=====+#%%%%@@@@@@@%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%#+=--------::-:::::::::::-:::-----==##%%%@@@@@@%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%+=----::::---:----:-:------------=-=*%%%%%@@%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%#=----:::-==+**#**+++++++++====-----=+#%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%*=--:::-++***#**********++++===-----+#%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%#=----::=+****##**********+++++==----=%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%+-::=++**#####*************+++=:---*%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%---+==-----=+*****+=---::---==---*%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%--+***+++=--==+*+=---:---==+++=--%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%+-+*+==*::=+*+*#*=---*:--=:-=+=-#%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%#=*********+***#*+=========+++*==%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%++**######***##*==+++++++*****++%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%#**#######*++*+==++=+**+++++++=*%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%#*****###**++*+=--==+++++++++++%#########%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%#*******++==*==+==-=+++=====+++###########%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%#***+=--=---=-------:-=====+##############%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%***+==++++#***+=------====*#################%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%*+++++++=====-------====*%%%%####################%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*+++++****++====-----=#%%%%%%#####################%
-%%%%%%%%%%%%%%%%%%%%%%%%%%#-::+===+++++====-------=*%%%%########################
-%%%%%%%%%%%%%%%%%%%%%%%%%#*-.:+++-:::::::::::::---=.:+%#########################
-%%%%%%%%%%%%%%%%%%%%%%####=:::-+++==-::::::::-----:::=##########################
-%%%%%%%%%%%%%%%%%####*+-:::::::::-=+++==-----:::....::-+########################
-%%%%%%%%%%%%%%%###=--:::::::::.......:++==:........::::-:--*####################
-%%%%%%%%%%%%**=----:..:::::.::...................::...:::::::-*#################
-%%%%%%%%#+=-------:..:::::::...........  .............::::::-::-==##############
-%####+-----------:...:::..............:##:............:::::::-:::--=+###########
-*+=------:--:::::....::...............:%#:..........::::::::.:-:.::---=+*#######
-------::::::::::.....:............................:::::::::::.::-..:------=#####
------::::::::::..................................:::..:::::::..::.:.:-------=+*#
---::::::::::..........................................::::.:::..::.:.::---------
-:::::::::::....  .....................................:::..::::.::.:..::--------
-::::::..::....  ........................ ...................::...::.:..:::------
-```
-
 ---
 
 <picture>
@@ -64,19 +21,6 @@
 [![Dashboard stats of @Rudra-RNC](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=184390233&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=184390233)
 
 ---
-## Top skills
-- Languages: JavaScript / TypeScript • Python • C++ • C# • SQL 
-- Frameworks: React • Node.js • Express
-- Dev tools: Docker • Git • CI/CD 
-
----
-
-## Featured projects
-
-- **Acrophobia — VR Simulation** — A virtual-reality simulation exploring height perception and safe-exposure techniques. Tech: Unity / WebVR (see repo). Repo: https://github.com/rudra-RNC/acrophobia
-- **Other projects (in development)** — Several personal and learning projects are currently being built and will be showcased here as they reach stable milestones.
-
----
 
 ## Open-source & competitive coding profiles
 - **[GitHub](https://github.com/Rudra-RNC)**
@@ -85,16 +29,14 @@
 - **[CodeChef](https://www.codechef.com/users/extra_web_87)**
 - **[HackerRank](https://www.hackerrank.com/profile/mesracp)**
 
-
 ---
 
 ## GitHub statistics
-
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rudra-RNC&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Rudra-RNC&hide_title=true&langs_count=10&hide_values=true&theme=radical)
 
-[![Rudra-Kumar-GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Rudra-RNC&bg_color=000000&color=8b949e&line=1a752e&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Rudra-Kumar-GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Rudra-RNC&bg_color=000000&color=8b949e&line=1a752e&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <!-- Alternate badges: LeetCode, Codeforces, CodeChef, HackerRank -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/2_01_4_2_1___5_01_3_1_2/)
@@ -108,7 +50,7 @@
 
 ---
 
-<!-![LeetCode Stats](https://leetcard.jacoblin.cool/2_01_4_2_1___5_01_3_1_2?theme=wtf&font=Andika%20New%20Basic&colors=%23000000&ext=heatmap)->
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/2_01_4_2_1___5_01_3_1_2?theme=wtf&font=Andika%20New%20Basic&colors=%23000000&ext=heatmap) -->
 
 ---
 ## Professional summary
