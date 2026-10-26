@@ -1,11 +1,13 @@
 # Rudra Kumar - Builder & Software Engineer
 ---
-
+<details>
+<summary>Click here to See Contribution Snake Animation</summary>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudra-RNC/Rudra-RNC/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudra-RNC/Rudra-RNC/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rudra-RNC/Rudra-RNC/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+</details>
 
 ---
 
@@ -14,7 +16,6 @@
 - **LinkedIn:** https://www.linkedin.com/in/rudra-kumar-cs
 - **Resume:** [Google Drive](https://drive.google.com/file/d/1gqUlqtC5ETYvMNPuGLiWQtDuNaQsS6OR/view?usp=drive_link)
 - **Portfolio:** In production
-- **Location / Timezone:** GMT+5:30 (IST) - India
 
 ---
 
@@ -63,14 +64,6 @@ Experienced in building web applications with an emphasis on clean architecture,
 - Prefer simple, observable systems and readable APIs.
 - Open to code reviews, pair programming, and mentoring.
 
----
-
-## Contact & collaboration
-- Email: [dj0rudra@gmail.com](mailto:dj0rudra@gmail.com)
-- LinkedIn: [Rudra Kumar](https://www.linkedin.com/in/rudra-kumar-cs)
-- Resume: [Google Drive](https://drive.google.com/file/d/1gqUlqtC5ETYvMNPuGLiWQtDuNaQsS6OR/view?usp=drive_link)
-- Portfolio: [In production](#)
-- Available for: Freelance and Open-source contributions
 ---
 
 Thanks for the visit — I look forward to building interesting things together.
