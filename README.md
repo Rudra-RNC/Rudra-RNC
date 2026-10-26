@@ -39,7 +39,6 @@
 [![Rudra's Activity Graph](https://github-act-graph.rodriaum.com/graph?username=Rudra-RNC&bg_color=000000&color=8b949e&line=1a752e&point=8b949e&area=true&hide_border=true)](https://github.com/rodriaum/github-readme-activity-graph)
 </details>
 
-[![Dashboard stats of @Rudra-RNC](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=184390233&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=184390233)
 
 ---
 
